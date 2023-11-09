@@ -6,8 +6,6 @@ using UnityEngine.Events;
 using UnityEngine.SceneManagement;
 
 
-namespace MenuTemplate
-{
     [RequireComponent(typeof(AudioSource))]
     public class MainMenu : MonoBehaviour
     {
@@ -72,4 +70,4 @@ namespace MenuTemplate
 
 
     }
-}
+
